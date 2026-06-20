@@ -30,3 +30,7 @@ def min_changes_to_make_balanced(schedule):
 
 print(min_changes_to_make_balanced("())"))
 print(min_changes_to_make_balanced("((("))
+
+# Time complexity: O(n) — single pass
+
+# Space: O(1) — constant extra space
